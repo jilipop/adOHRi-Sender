@@ -1,0 +1,20 @@
+#ifndef DEFAULTS_H
+#define DEFAULTS_H
+
+#define DEFAULT_DEVICE "default"
+#define DEFAULT_BUFFER 32
+
+#define DEFAULT_ADDR "::"
+#define IP_START 50
+#define NUM_SESSIONS 50
+#define DEFAULT_PORT 1350
+#define DEFAULT_FRAME 960
+#define DEFAULT_JITTER 32
+
+#define DEFAULT_RATE 48000
+#define DEFAULT_CHANNELS 2
+#define DEFAULT_BITRATE 48
+
+#define DEFAULT_VERBOSE 2
+
+#endif
