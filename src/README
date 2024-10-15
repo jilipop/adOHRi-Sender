@@ -1,4 +1,6 @@
 adOHRi sender
 
 This software broadcasts audio from a hardware input to a given IP range using an array of unicast streams.
-It is intended to be used with the adOHRi receiver app for iOS (https://apps.apple.com/de/app/adohri/id1611418865) and Android (https://play.google.com/store/apps/details?id=io.github.jilipop.adohri) and it is based on trx: Realtime audio over IP by Mark Hills (http://www.pogo.org.uk/~mark/trx/)
+It is intended to be used with the adOHRi receiver app for iOS (https://apps.apple.com/de/app/adohri/id1611418865) and Android (https://play.google.com/store/apps/details?id=io.github.jilipop.adohri).
+
+adOHRi sender is based on trx: Realtime audio over IP by Mark Hills (http://www.pogo.org.uk/~mark/trx/)
